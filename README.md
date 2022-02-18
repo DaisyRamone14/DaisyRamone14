@@ -1,9 +1,9 @@
 ### Hi there 👋
-${your.username}.${your.repo.id}
-![GitHub stars](https://img.shields.io/github/stars/USER/REPOSITORY?style=social)
-![GitHub forks](https://img.shields.io/github/forks/USER/REPOSITORY?style=social)
-![GitHub watchers](https://img.shields.io/github/watchers/USER/REPOSITORY?style=social)
-![GitHub followers](https://img.shields.io/github/followers/USER?style=social)
+
+![GitHub stars](https://img.shields.io/github/stars/DaisyRamone14/REPOSITORY?style=social)
+![GitHub forks](https://img.shields.io/github/forks/DaisyRamone14/REPOSITORY?style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/DaisyRamone14/REPOSITORY?style=social)
+![GitHub followers](https://img.shields.io/github/followers/DaisyRamone14?style=social)
 
 <!--
 **DaisyRamone14/DaisyRamone14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
