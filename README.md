@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daisyramone14&label=Profile%20views&color=0e75b6&style=flat" alt="daisyramone14" /> </p>
 
-- 🔭 I’m currently working on [Timetable Generator](https://github.com/DaisyRamone14/Time-Table-Scheduler)
+- 🔭 I’m currently working on [Timetable Generator](https://github.com/DaisyRamone14/Time-Table-Scheduler), [ISL Interpreter] (https://github.com/DaisyRamone14/ISL-Interpreter)
 
-- 🌱 I’m currently learning **Flask, Java, Postman**
+- 🌱 I’m currently learning **Flask, Java, Postman, creating datasets**
 
 - 🤝 I’m looking for help with [Timetable Generator](https://github.com/DaisyRamone14/Time-Table-Scheduler)
 
